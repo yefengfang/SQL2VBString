@@ -1,0 +1,8 @@
+D:\Users\Documents\GitHub\SQL2VBString\SQL2VBString\bin\Release\SQL2VBString.exe.config
+D:\Users\Documents\GitHub\SQL2VBString\SQL2VBString\bin\Release\SQL2VBString.exe
+D:\Users\Documents\GitHub\SQL2VBString\SQL2VBString\bin\Release\SQL2VBString.pdb
+D:\Users\Documents\GitHub\SQL2VBString\SQL2VBString\obj\Release\SQL2VBString.Properties.Resources.resources
+D:\Users\Documents\GitHub\SQL2VBString\SQL2VBString\obj\Release\SQL2VBString.csproj.GenerateResource.Cache
+D:\Users\Documents\GitHub\SQL2VBString\SQL2VBString\obj\Release\SQL2VBString.exe
+D:\Users\Documents\GitHub\SQL2VBString\SQL2VBString\obj\Release\SQL2VBString.pdb
+D:\Users\Documents\GitHub\SQL2VBString\SQL2VBString\obj\Release\SQL2VBString.Form1.resources
